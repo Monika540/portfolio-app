@@ -55,7 +55,7 @@ const HeroSection = () => {
                   viewBox="0 0 24 24"
                   fill="currentColor"
                   aria-hidden="true"
-                  className="w-5 h-5"
+                  className="w-5"
                 >
                   <path
                     fillRule="evenodd"
